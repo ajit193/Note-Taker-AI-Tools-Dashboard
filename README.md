@@ -3,6 +3,8 @@ Collected data manually and via web scraping on 1,100+ AI note-taking tools.
 Cleaned and structured the data using Python (Pandas) and Excel.
 Built an interactive Power BI dashboard with filters, KPIs, and insights on top-rated tools, pricing, and platforms.
 
+
+
 Cleaned and transformed a large dataset of AI tools for effective visualization.
 
 Designed a dynamic dashboard using slicers and KPIs to allow filtering by year, features, and ratings.
