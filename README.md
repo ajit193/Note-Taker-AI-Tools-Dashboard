@@ -1,4 +1,5 @@
-<img width="608" alt="Note taker Ai tools" src="https://github.com/user-attachments/assets/442db0df-694e-4924-be24-3344f4a75ece" /># Note-Taker-AI-Tools-Dashboar
+<img width="608" alt="Note taker Ai tools" src="https://github.com/user-attachments/assets/442db0df-694e-4924-be24-3344f4a75ece" />
+
 Collected data manually and via web scraping on 1,100+ AI note-taking tools.
 Cleaned and structured the data using Python (Pandas) and Excel.
 Built an interactive Power BI dashboard with filters, KPIs, and insights on top-rated tools, pricing, and platforms.
